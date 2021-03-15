@@ -2,7 +2,7 @@
 echo "THIS SCRIPT WILL PROVIDE THE INFORMATION ABOUT LOCAL SYSTEM"
 
 #Gives HOST NAME
-echo hostname
+echo $(hostname)
 
 #Gives Who Logged In 
-echo$(whoami)
+echo $(whoami)
