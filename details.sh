@@ -7,5 +7,4 @@ echo $(hostname)
 #Gives Who Logged In 
 echo $(whoami)
 
-#Gives present working directory
-echo $(pwd)
+
